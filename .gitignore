@@ -6,6 +6,7 @@
 *.bak
 *.ncb
 *.log 
+*.iml
 
 target/
 .classpath
